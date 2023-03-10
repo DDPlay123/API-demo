@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">API測試</string>
+
+    <string name="toast_ask_location_permission">請開啟定位權限</string>
+    <string name="toast_not_empty">不要為空值</string>
+
+    <string name="actionbar_open_ai">OpenAI測試</string>
+    <string name="actionbar_edamam">Edamam測試</string>
+    <string name="actionbar_places">Places測試</string>
+
+    <string name="ui_openai">OpenAI-DEMO</string>
+    <string name="ui_edamam">Edamam-DEMO</string>
+    <string name="ui_places">Places-DEMO</string>
+    <string name="ui_hint_input">點我輸入\.\.\.</string>
+</resources>
